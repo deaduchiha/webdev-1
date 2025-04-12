@@ -1,3 +1,1 @@
-console.log("function");
-
-console.log("new");
+const a = "function";
